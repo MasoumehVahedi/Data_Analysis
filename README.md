@@ -1,0 +1,2 @@
+# Data_Analysis
+In this project, I have analysed the weather's parameters on weatherHistory dataset from kaggle and I investigated the relationship between temperature and humidity using linear regression. Also, I have implemented machine learning algorithm (Decision Tree) for classification. In this case, 'Daily Summary' column as the target has been estimated by other features of weather such as temperature, humidity, wind and so on. In fact, using Decisin Tree algorithm, weather data was classified to identify the daily weather based on  other weather features.
